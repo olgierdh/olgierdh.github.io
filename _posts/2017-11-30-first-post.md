@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-11-30 22:42:00
+layout:     post
+title:      "Welcome to Jekyll!"
+date:       2018-02-01 22:31:00
 categories: general thoughts
 ---
 
